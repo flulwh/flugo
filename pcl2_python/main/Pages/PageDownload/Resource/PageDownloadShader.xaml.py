@@ -1,0 +1,2 @@
+class PageDownloadShader
+pass
