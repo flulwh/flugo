@@ -1,0 +1,2 @@
+class PageDownloadResourcePack
+pass
